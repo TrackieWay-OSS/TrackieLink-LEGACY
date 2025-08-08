@@ -88,4 +88,4 @@ Ou envie sugestões via issues!
 ⭐ Ah, e não se esqueça de deixar uma estrela no projeto!
 
 📄 Licença
-Distribuído sob a Licença vyAI Social Commons 1.2. Veja o arquivo LICENSE.txt para mais detalhes.
+Distribuído sob a Licença vyAI Social Commons 1.2. Veja o arquivo LICENSE para mais detalhes.
