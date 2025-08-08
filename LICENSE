@@ -1,121 +1,342 @@
-Creative Commons Legal Code
+The vyAI Social Commons License, Version 1.2
 
-CC0 1.0 Universal
+Version 1.2, 02 August 2025
+Copyright © 2025 vyAI, a division of the Vytruve Organization.
+License Canonical URI: <https://vytruve.org/licenses/vyai-social-commons-1.2.html>
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-Statement of Purpose
+------------------------------------------------------------------------
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+Part 0: Notice of Classification and Intent
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+   0.1. License Classification. This document constitutes a "Source-Available
+   License with Social Use Restrictions." It is intentionally drafted to be
+   incompatible with the definitions of "Open Source" as provided by the Open
+   Source Initiative (OSI) and "Free Software" as provided by the Free Software
+   Foundation (FSF). This distinction is fundamental to the License's purpose
+   and should not be obscured.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+   0.2. Declaration of Primary Goal. The primary and overriding goal of this
+   License is to establish and protect a digital commons. It seeks to ensure
+   that technology created for social inclusion, empowerment, and accessibility
+   remains perpetually available for those purposes. It achieves this by
+   explicitly restricting direct commercial exploitation, particularly through
+   scalable service models like Software as a Service (SaaS), which could
+   otherwise transform the Work into a tool of economic exclusion. By using,
+   modifying, or distributing this Work, You irrevocably agree to uphold these
+   principles and adhere to the following restrictions.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+Preamble: The Philosophy of the Social Commons
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+The vyAI Social Commons License (vSCL) is born from a simple yet resolute
+conviction: technology designed to empower and include must never become a
+barrier. This license governs software and other copyrightable works created
+to serve communities, advance public education and research, support non-profit
+organizations, and assist persons with disabilities. Its purpose is to carve
+out a protected space—a digital commons—where essential tools remain freely
+accessible for all socially beneficial applications.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+This License grants broad permissions to use, study, modify, and share the
+Work. It explicitly encourages the integration of the Work into physical
+hardware products, recognizing that tangible innovation is a powerful means
+of delivering technology to people's hands.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+However, the License establishes a crucial ethical and legal boundary: the
+Work itself cannot be sold or offered as a commercial service where access is
+contingent on payment. This restriction is not intended to stifle all
+commercial activity, but to ensure that any commercial activity centers
+around physical delivery, human expertise, or ancillary support, rather than
+monetizing access to the Work's core functionality itself.
 
-4. Limitations and Disclaimers.
+For instance, a sophisticated AI-powered assistive reading system governed by
+this License can be freely developed and deployed by public libraries,
+rehabilitation centers, or NGOs serving communities with low digital literacy.
+This License contractually protects this system from being appropriated by a
+corporation that would rebrand it and charge a prohibitive monthly
+subscription fee for the exact same service.
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+We believe that true innovation is measured by its service to humanity. This
+License is our legal and philosophical commitment to that ideal, ensuring that
+the fruits of our labor nurture social good, not just commercial profit. The
+following terms and conditions are designed to enforce this philosophy with
+maximum legal clarity and strength.
+
+------------------------------------------------------------------------
+
+Part I: Definitions
+
+For the purposes of this License, the following terms shall have the meanings
+specified below. These definitions are integral to the interpretation of Your
+rights and obligations.
+
+   1.1. "This License" refers to the vyAI Social Commons License, Version 1.2
+   (Definitive Edition).
+
+   1.2. "The Licensor" refers to the original copyright holder or the legal
+   entity authorized by the copyright holder that is placing the Work under
+   this License.
+
+   1.3. "The Work" refers to any copyrightable material—including but not
+   limited to software in Source Code or Object Code form, documentation,
+   datasets, specifications, and machine learning models (including weights
+   and architecture)—that the Licensor has explicitly designated as being
+   governed by this License.
+
+   1.4. "You" (or "Your") refers to an individual or a legal entity exercising
+   the permissions granted by this License.
+
+   1.5. "Source Code" means the preferred form of the Work for making
+   modifications. This includes all modules, associated interface definition
+   files, scripts controlling compilation and installation, and any other
+   documentation necessary to understand, modify, and reproduce the Work.
+
+   1.6. "To Modify" means to create a "Derivative Work" by copying from or
+   adapting all or part of the Work in a manner requiring copyright
+   permission.
+
+   1.7. "Derivative Work" means any work based on or derived from the Work.
+   This includes translations, adaptations, and any other form in which the
+   Work may be recast or transformed. For the purposes of this License, a
+   Derivative Work also includes any other work that integrates with the Work
+   so intimately—whether through static linking, dynamic linking, or tight API
+   coupling—that it cannot reasonably be considered an independent work.
+
+   1.8. "To Propagate" and "To Convey" have the same meaning as in the GNU
+   General Public License version 3. To "Propagate" is to do anything that
+   would make You liable for copyright infringement without permission, except
+   for private modification or execution. To "Convey" is any propagation that
+   enables others to receive copies.
+
+   1.9. "Permitted Social Purpose" refers to any use of the Work that is not a
+   Prohibited Commercial Offering and is conducted by or for:
+
+      a) Non-Profit and Charitable Organizations: Use by or for legally
+      registered non-profit, charitable, or public-benefit organizations (e.g.,
+      a foundation providing digital literacy tools).
+
+      b) Educational Use: Non-commercial activities within academic
+      institutions (schools, universities) for teaching, learning, and academic
+      research (e.g., a university computer science course using the Work as a
+      case study).
+
+      c) Public Research: Research by individuals or institutions where all
+      results, data, and conclusions are made publicly available under terms
+      that do not restrict access.
+
+      d) Personal, Hobbyist, and Community Projects: Use by individuals or
+      informal community groups for projects not intended for commercial gain
+      or to support a commercial enterprise (e.g., a group of volunteers
+      building a local community information kiosk).
+
+      e) Accessibility Projects: The development and deployment of tools or
+      services specifically intended to assist persons with disabilities,
+      provided these tools themselves are not offered as a Prohibited
+      Commercial Offering.
+
+   1.10. "Prohibited Commercial Offering" means making the core functionality
+   of the Work, or a Derivative Work, available to third parties in a way that
+   generates revenue by charging for access to the Work's features. This
+   prohibition applies regardless of the delivery mechanism and includes, but
+   is not limited to:
+
+      a) Software as a Service (SaaS): Hosting the Work and charging users a
+      fee for access, particularly when such access is monetized in a way that
+      effectively denies individuals or communities equitable access to the Work.
+      This clause shall be interpreted broadly, focusing on the effect of the
+      offering on user access, not merely its technical implementation.
+
+      b) Platform as a Service (PaaS): Providing a development or deployment
+      platform that incorporates the Work as a core, monetized component that
+      other developers build upon for a fee.
+
+      c) API as a Service: Charging a fee for programmatic access to the Work's
+      functionality via an Application Programming Interface (API).
+
+      d) Direct Sale or Licensing: Selling, renting, leasing, or sublicensing
+      the Work or a Derivative Work as a standalone software product.
+
+   1.11. "Permitted Hardware Product" refers to a tangible, physical hardware
+   device that is sold to an end-user and which incorporates the Work. For a
+   product to qualify, it must meet all of the following conditions:
+
+      a) Substantial Independent Value: The hardware itself must possess
+      substantial functionality, value, and complexity independent of the Work.
+      The Work must not be the sole or primary element of value. (e.g., A
+      consumer robot where the Work manages one of its sensor arrays, but the
+      product's primary value lies in its mechanical construction, motors,
+      battery system, and other onboard software).
+
+      b) Integrated Feature: The Work must function as an integrated and
+      supporting component, not as the primary marketed feature.
+
+      c) Hardware-Centric Transaction: The marketing, sale, and pricing of the
+      product must be clearly centered on the physical device. The cost to the
+      end-user must not be framed or itemized as a license fee for the Work.
+
+   1.12. "Ancillary Services" refers to professional services based on human
+   expertise, for which You may charge a fee. This includes providing
+   installation, technical support, training, or consulting related to the Work.
+   Offering Ancillary Services does not violate this License, provided the
+   service does not function as a proxy for a Prohibited Commercial Offering.
+
+Part II: Core Permissions and Scope
+
+   2.1. Grant of License. Subject to Your strict adherence to all terms and
+   conditions of this License, the Licensor grants You a worldwide,
+   royalty-free, non-sublicensable, non-exclusive, perpetual (for the duration
+   of the copyright) license to:
+
+      a) Use the Work for any Permitted Social Purpose.
+
+      b) Use the Work for internal evaluation, research, and development within
+      any organization, including for-profit corporations, provided such use
+      does not result in a Prohibited Commercial Offering.
+
+      c) Create and Modify the Work to produce Derivative Works.
+
+      d) Reproduce and Convey verbatim copies of the Work's Source Code.
+
+      e) Convey Derivative Works, but only under the conditions mandated in
+      Part III.
+
+Part III: Conditions on Distribution (Social Commons Copyleft)
+
+   3.1. Conveying Verbatim Copies. You may Convey verbatim copies of the Work’s
+   Source Code as You receive it, in any medium, provided that You conspicuously
+   and appropriately publish on each copy a valid copyright notice; maintain
+   all notices referring to this License and to the disclaimer of warranty; and
+   provide a full copy of this License to all recipients.
+
+   3.2. Conveying Derivative Works. You may Convey a Derivative Work, but only
+   under the following mandatory conditions:
+
+      a) You must fulfill all obligations listed in Section 3.1.
+
+      b) The Derivative Work must carry prominent notices stating that You
+      modified it, with a relevant date.
+
+      c) The Derivative Work as a whole must be licensed under this License.
+      You must ensure that anyone who comes into possession of a copy receives
+      a license to the entire work under these same terms. This obligation is
+      absolute and applies to all parts of the Derivative Work, regardless of
+      how they are packaged.
+
+Part IV: Restrictions and Exemptions
+
+   4.1. Absolute Prohibition on Commercial Offerings. To be unmistakably clear:
+   You may not, under any circumstance, use the Work or any Derivative Work, in
+   whole or in part, to create, support, or offer a Prohibited Commercial
+   Offering as defined in Section 1.10. This is the central, non-negotiable
+   restriction of this License.
+
+   4.2. Guiding Principle for Interpretation. In any case of ambiguity regarding
+   whether a specific use case constitutes a Prohibited Commercial Offering, the
+   interpretation that best serves the License's stated goal of protecting the
+   Work for the digital commons and preventing its transformation into a tool of
+   economic exclusion shall prevail.
+
+   4.3. Explicitly Permitted Commercial Activities. Notwithstanding the
+   prohibition in Section 4.1, the following are not considered violations:
+
+      a) Sale of Permitted Hardware Products: You may manufacture and sell
+      Permitted Hardware Products as defined in Section 1.11.
+
+      b) Provision of Ancillary Services: You may charge fees for providing
+      Ancillary Services as defined in Section 1.12.
+
+Part V: Standard Legal Provisions
+
+   5.1. Termination. Your rights under this License terminate automatically and
+   immediately if You fail to comply with any of its terms. If You cease all
+   violations, Your license is reinstated provisionally unless and until the
+   Licensor explicitly terminates it, and permanently if the Licensor fails to
+   notify You of the violation within 60 days of Your cessation.
+
+   5.2. Acceptance. You are not required to accept this License to receive or
+   run a copy of the Work. However, nothing else grants You permission to
+   Propagate or Modify it. By undertaking these actions, You indicate Your
+   unconditional acceptance of all terms and conditions herein.
+
+   5.3. NO WARRANTY. THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+   5.4. LIMITATION OF LIABILITY. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR
+   ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR
+   THE USE OR OTHER DEALINGS IN THE WORK.
+
+   5.5. Severability and Interpretation. If any provision of this License is
+   held to be unenforceable, it shall be reformed to the minimum extent
+   necessary to make it enforceable. The Preamble, Notices, and Definitions are
+   integral parts of this License and must be used in its interpretation.
+
+Part VI: How to Apply This License
+
+To apply this License, attach the following notice in a LICENSE.md file in
+the root directory and, if possible, in the header of each source file.
+
+   ------------------------------------------------------------------------
+   Copyright © [Year] [Name of Author or Organization]
+
+   This Work is licensed under the vyAI Social Commons License, Version 1.2
+   (Definitive Edition).
+   A copy of the license is available at:
+   https://vytruve.org/licenses/vyai-social-commons-1.2.html
+   ------------------------------------------------------------------------
+
+   **IMPORTANT: THIS IS A SOURCE-AVAILABLE, SOCIALLY-RESTRICTED LICENSE.**
+
+   This license grants you broad rights to use, modify, and share this
+   Work for social, community, non-profit, and educational purposes. You
+   may also sell physical hardware that incorporates this Work.
+
+   It **strictly prohibits** monetizing this Work by selling it as a software
+   product or offering it as a commercial Software as a Service (SaaS).
+
+   This License is designed to protect innovation for the common good.
+   Please review the full license text to understand all your rights and
+   obligations.
+
+APPENDIX A: Practical Examples and Scenarios
+
+This appendix is for informational purposes and does not replace the legally
+binding terms above.
+
+   Scenario 1: The Non-Profit Foundation (Permitted)
+      Action: A foundation for digital inclusion downloads the Work, modifies
+      it to better suit local languages, and deploys it on free-to-use
+      terminals in community centers.
+      Verdict: Permitted. This is a clear example of a "Permitted Social Purpose."
+
+   Scenario 2: The Hardware Startup (Permitted)
+      Action: A startup designs and builds an advanced robotic arm for use in
+      physical therapy. The Work is used to control the arm's fine motor
+      movements. They sell the robotic arm for $5,000.
+      Verdict: Permitted. This is a "Permitted Hardware Product." The value is
+      in the hardware, and the Work is an integrated component.
+
+   Scenario 3: The SaaS Company (Prohibited)
+      Action: A tech company takes the Work, hosts it on its cloud servers,
+      and sells API access to other developers at $0.01 per call.
+      Verdict: Prohibited. This is a textbook "Prohibited Commercial Offering"
+      (SaaS/API as a Service) and a direct violation of Section 4.1.
+
+   Scenario 4: The IT Consulting Firm (Permitted)
+      Action: A consulting firm charges a corporate client $10,000 to install,
+      configure, and integrate the Work into the client's internal document
+      management system. The client does not offer this system to external
+      users as a service.
+      Verdict: Permitted. The consulting firm is selling "Ancillary Services"
+      (human expertise). The client is using the work for "Internal Business Use."
+      Neither is a violation.
+
+   Scenario 5: The "Freemium Wrapper" (Prohibited)
+      Action: A company offers a "free" online service that is a thin wrapper
+      around the Work's functionality. However, to unlock essential features
+      (like saving files or handling larger inputs), users must upgrade to a "Pro"
+      plan for $15/month.
+      Verdict: Prohibited. This is an attempt to circumvent the SaaS
+      restriction. The service's core value is derived from the Work, and its
+      access is monetized. This violates the spirit and letter of the License.
