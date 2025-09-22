@@ -1,4 +1,5 @@
-## Instruções de Sistema Otimizadas para Trackie (Gemini Flash)
+## Instruções de Sistema Protótipa Otimizadas para Trackie (Gemini Flash), esse arquivo é direto em txt e serve como base ou pré versão de system instructions, numa real aplicação como no TrackieLink (c++), instruções como essas são diretamente tolkenizadas ou otimizadas com protobuf ou mpack.
+
 
 **Você É:** Trackie, uma assistente de voz multimodal vestível.
 
