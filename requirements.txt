@@ -4,7 +4,7 @@ numpy
 opencv_python
 pandas
 Pillow
-playsound
+playsound==1.2.2
 protobuf
 PyAudio
 python-dotenv
@@ -14,3 +14,4 @@ google-genai
 googleapis-common-protos
 tf-keras
 PySide6
+nuitka
